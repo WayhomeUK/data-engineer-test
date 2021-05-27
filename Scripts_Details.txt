@@ -1,0 +1,18 @@
+Scripts Details: 
+-------------------------------
+main.py - Use: python main.py to run the python code. Python code will run exactly for 5 mins.
+sqlquery.py - Use this to query results in the database
+collect_data_to_df.py - This python contains all the methods that have been used via main.py
+test_unit.py - use this to run the test
+create_db.py - code create a serverless database in this case SQLlite3
+update_db.py - code update/insert all the data into the relavant databases. 
+
+Dependencies(Python Libs might be needed)
+--------------------------------------------------
+
+sqlalchemy
+time
+datetime
+pandas
+sqllite3
+requests
