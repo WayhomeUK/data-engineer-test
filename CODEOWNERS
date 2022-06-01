@@ -1,0 +1,2 @@
+# Whenever a PR is created that edits any files, the following codeowners are added as reviewers.
+* @WayhomeUK/backend
